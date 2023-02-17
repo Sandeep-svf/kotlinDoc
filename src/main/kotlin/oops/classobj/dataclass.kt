@@ -17,6 +17,8 @@ fun main (){
     println(User1.equals(User2))  // It will print False
     println(User1 == User2)
 
+    // jsdfjslkjfdlk
+
 }
 
 data class User(val id : Long, var name : String){
