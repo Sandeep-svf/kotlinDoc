@@ -4,23 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="105e5a37-9aba-41c1-8726-f92e5b80afd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/basic/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/codecamporg/arrayandlist.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/codecamporg/basicfunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/codecamporg/classess/Person.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/codecamporg/classess/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/codecamporg/collectionsexmp.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/codecamporg/variablesss.kt" afterDir="false" />
+    <list default="true" id="105e5a37-9aba-41c1-8726-f92e5b80afd4" name="Changes" comment="classes...">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/codecamporg/interfaces/PersonInfoProvider.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritence/Fancyinfoprovider.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/LetinitSetterGetter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/classexample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/dataclass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/scope.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/codecamporg/arrayandlist.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/codecamporg/arrayandlist.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
@@ -56,37 +50,37 @@
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.MainKt (1)">
-    <configuration name="ArrayandlistKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codecamporg.ArrayandlistKt" />
+  <component name="RunManager" selected="Kotlin.DataclassKt">
+    <configuration name="ClassexampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.classobj.ClassexampleKt" />
       <module name="kotlinDoc" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicfunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codecamporg.BasicfunctionsKt" />
+    <configuration name="DataclassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.classobj.DataclassKt" />
       <module name="kotlinDoc" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionsexmpKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codecamporg.CollectionsexmpKt" />
+    <configuration name="LetinitSetterGetterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.classobj.LetinitSetterGetterKt" />
       <module name="kotlinDoc" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codecamporg.classess.MainKt" />
+    <configuration name="PersonInfoProviderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codecamporg.interfaces.PersonInfoProviderKt" />
       <module name="kotlinDoc" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesssKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codecamporg.VariablesssKt" />
+    <configuration name="ScopeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.classobj.ScopeKt" />
       <module name="kotlinDoc" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainKt (1)" />
-        <item itemvalue="Kotlin.CollectionsexmpKt" />
-        <item itemvalue="Kotlin.ArrayandlistKt" />
-        <item itemvalue="Kotlin.BasicfunctionsKt" />
-        <item itemvalue="Kotlin.VariablesssKt" />
+        <item itemvalue="Kotlin.DataclassKt" />
+        <item itemvalue="Kotlin.LetinitSetterGetterKt" />
+        <item itemvalue="Kotlin.ClassexampleKt" />
+        <item itemvalue="Kotlin.ScopeKt" />
+        <item itemvalue="Kotlin.PersonInfoProviderKt" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +105,33 @@
       <option name="presentableId" value="Default" />
       <updated>1670908493921</updated>
     </task>
+    <task id="LOCAL-00001" summary="classes...">
+      <created>1672297677608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672297677608</updated>
+    </task>
+    <task id="LOCAL-00002" summary="classes...">
+      <created>1672297741526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672297741526</updated>
+    </task>
+    <task id="LOCAL-00003" summary="classes...">
+      <created>1672320445450</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672320445450</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="classes..." />
+    <option name="LAST_COMMIT_MESSAGE" value="classes..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -124,6 +144,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/oops/classobj/classexample.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -155,6 +155,7 @@ fun main(args: Array<String>) {
     if (list.size !in list.indices) {
         println(list.size)
         println(list.indices)
+        
         println("list size is out of valid list indices range, too")
     }
 

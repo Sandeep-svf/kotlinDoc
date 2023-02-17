@@ -2,7 +2,7 @@ package codecamporg
 
 fun main() {
     var userName = listOf("sam","aarav","warrior")  // immutable
-    var gameUserName = mutableListOf("sam","aarav","warrior")   // muttable list collection...
+    var gameUserName = mutableListOf("sam","aarav","warrior")   // mutable list collection...
 
     gameUserName.add("lifeSaviour")
 
