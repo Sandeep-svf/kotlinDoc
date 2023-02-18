@@ -5,13 +5,20 @@ import java.lang.IllegalArgumentException
 fun main(){
     var myCar = Car()
     println( myCar.myBrand )
-    myCar.maxSpeed = 200
+    myCar.maxSpeed = 0
     println(myCar.maxSpeed)
     println(myCar.myModel)
 }
 
 class Car(){
     lateinit var owner : String
+
+    var master : String? = null
+
+
+    lateinit var junmp : String
+
+
     val myBrand : String = "BMW"
 
         // custom getter....
@@ -19,7 +26,7 @@ class Car(){
             return field.lowercase()
         }
 
-    var maxSpeed : Int = 250
+    var maxSpeed : Int = 0
 
         // This code generated automatically when we decleer maxSpeed variable
         get() = field

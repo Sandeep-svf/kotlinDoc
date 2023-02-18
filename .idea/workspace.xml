@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="105e5a37-9aba-41c1-8726-f92e5b80afd4" name="Changes" comment="classes...">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/codecamporg/interfaces/PersonInfoProvider.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/inheritence/Fancyinfoprovider.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/LetinitSetterGetter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/classexample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/dataclass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/scope.kt" afterDir="false" />
+    <list default="true" id="105e5a37-9aba-41c1-8726-f92e5b80afd4" name="Changes" comment="classes...ghfh">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/Inheritance.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basic/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basic/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/codecamporg/arrayandlist.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/codecamporg/arrayandlist.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/LetinitSetterGetter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/LetinitSetterGetter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/classexample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oops/classobj/classexample.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.DataclassKt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.InheritanceKt">
     <configuration name="ClassexampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oops.classobj.ClassexampleKt" />
       <module name="kotlinDoc" />
@@ -65,15 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetinitSetterGetterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.classobj.LetinitSetterGetterKt" />
+    <configuration name="InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.classobj.InheritanceKt" />
       <module name="kotlinDoc" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonInfoProviderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codecamporg.interfaces.PersonInfoProviderKt" />
+    <configuration name="LetinitSetterGetterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.classobj.LetinitSetterGetterKt" />
       <module name="kotlinDoc" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.DataclassKt" />
+        <item itemvalue="Kotlin.InheritanceKt" />
         <item itemvalue="Kotlin.LetinitSetterGetterKt" />
         <item itemvalue="Kotlin.ClassexampleKt" />
+        <item itemvalue="Kotlin.DataclassKt" />
         <item itemvalue="Kotlin.ScopeKt" />
-        <item itemvalue="Kotlin.PersonInfoProviderKt" />
       </list>
     </recent_temporary>
   </component>
@@ -126,12 +122,27 @@
       <option name="project" value="LOCAL" />
       <updated>1672320445450</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="classes...ghfh">
+      <created>1676637229114</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676637229114</updated>
+    </task>
+    <task id="LOCAL-00005" summary="classes...ghfh">
+      <created>1676637316224</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676637316225</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="classes..." />
-    <option name="LAST_COMMIT_MESSAGE" value="classes..." />
+    <MESSAGE value="classes...ghfh" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes...ghfh" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

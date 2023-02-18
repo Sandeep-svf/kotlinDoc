@@ -2,9 +2,11 @@ package oops.classobj
 
 fun main(){
 
+
     // creating obj
     var aarav : Person = Person("Aarav","Maurya",6)
     aarav.age = 8
+    println(aarav)
     println("Aarav is ${aarav.age} year old")
 
     var mamtha = Person( "Mamtha","Kotian",55)
@@ -18,6 +20,10 @@ fun main(){
     mamtha.hobby = "Doing pendulam work"
 
     mamtha.stateHobby()
+
+
+    var master : Person = Person("master","G")
+    println(master)
 
 }
 
