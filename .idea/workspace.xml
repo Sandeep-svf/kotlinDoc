@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="105e5a37-9aba-41c1-8726-f92e5b80afd4" name="Changes" comment="classes...ghfh">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/otherfundamentalofkoltin/Arraylist.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/otherfundamentalofkoltin/NastedInnerClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/otherfundamentalofkoltin/UnsafeandSafeCast.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/otherfundamentalofkoltin/Visibiliyoracessmodifire.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/otherfundamentalofkoltin/exceptionhandling.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/otherfundamentalofkoltin/lambdaexpression.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="105e5a37-9aba-41c1-8726-f92e5b80afd4" name="Changes" comment="another fundamental of kotlin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,13 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676706162879</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="another fundamental of kotlin">
+      <created>1676877230398</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676877230398</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="classes..." />
     <MESSAGE value="classes...ghfh" />
-    <option name="LAST_COMMIT_MESSAGE" value="classes...ghfh" />
+    <MESSAGE value="another fundamental of kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="another fundamental of kotlin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
