@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="105e5a37-9aba-41c1-8726-f92e5b80afd4" name="Changes" comment="another fundamental of kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutines/coroutinebasic.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutines/calcelationtimeout.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kotlinDoc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kotlinDoc.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,14 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.CoroutinebasicKt">
+  <component name="RunManager" selected="Kotlin.CalcelationtimeoutKt">
+    <configuration name="CalcelationtimeoutKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coroutines.CalcelationtimeoutKt" />
+      <module name="kotlinDoc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CoroutinebasicKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coroutines.CoroutinebasicKt" />
       <module name="kotlinDoc" />
@@ -62,13 +68,6 @@
     </configuration>
     <configuration name="ExceptionhandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="otherfundamentalofkoltin.ExceptionhandlingKt" />
-      <module name="kotlinDoc" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaexpressionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="otherfundamentalofkoltin.LambdaexpressionKt" />
       <module name="kotlinDoc" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CalcelationtimeoutKt" />
         <item itemvalue="Kotlin.CoroutinebasicKt" />
         <item itemvalue="Kotlin.ExceptionhandlingKt" />
         <item itemvalue="Kotlin.UnsafeandSafeCastKt" />
         <item itemvalue="Kotlin.NastedInnerClassKt" />
-        <item itemvalue="Kotlin.LambdaexpressionKt" />
       </list>
     </recent_temporary>
   </component>
