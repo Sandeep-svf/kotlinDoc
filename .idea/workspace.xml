@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="105e5a37-9aba-41c1-8726-f92e5b80afd4" name="Changes" comment="another fundamental of kotlin" />
+    <list default="true" id="105e5a37-9aba-41c1-8726-f92e5b80afd4" name="Changes" comment="another fundamental of kotlin">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/coroutines/coroutinebasic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlinDoc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kotlinDoc.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,17 +37,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.ExceptionhandlingKt">
-    <configuration name="ArraylistKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="otherfundamentalofkoltin.ArraylistKt" />
+}]]></component>
+  <component name="RunManager" selected="Kotlin.CoroutinebasicKt">
+    <configuration name="CoroutinebasicKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coroutines.CoroutinebasicKt" />
       <module name="kotlinDoc" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CoroutinebasicKt" />
         <item itemvalue="Kotlin.ExceptionhandlingKt" />
         <item itemvalue="Kotlin.UnsafeandSafeCastKt" />
         <item itemvalue="Kotlin.NastedInnerClassKt" />
         <item itemvalue="Kotlin.LambdaexpressionKt" />
-        <item itemvalue="Kotlin.ArraylistKt" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676877230398</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="another fundamental of kotlin">
+      <created>1676877403468</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676877403468</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
