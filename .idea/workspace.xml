@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="105e5a37-9aba-41c1-8726-f92e5b80afd4" name="Changes" comment="another fundamental of kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/enumsealedclass/enumsealed.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/nullsafty/nullsafty.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lamdaexpression/higherorderfunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/collection/listmap.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/collection/listmap.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dmin\IdeaProjects\kotlinDoc\src\main\kotlin\lamdaexpression" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="CalcelationtimeoutKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coroutines.CalcelationtimeoutKt" />
